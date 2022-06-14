@@ -1,4 +1,4 @@
-# Hackathon-Python-Morgan_Stanley---Ensimag
+# Hackathon-Python-Morgan_Stanley
 
 I participated in a Hackathon organized by Morgan-Stanley in my engineering school. 
 In team of 3, I won this coding challenge on the topic of FX Algorithmic trading in Python with my team.
